@@ -1,0 +1,41 @@
+﻿<UserControl x:Class="MoustakbalManager.Pages.GridPage.DeleteDialog"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MoustakbalManager.Pages.GridPage"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <StackPanel Margin="10">
+        <TextBlock Style="{StaticResource MaterialDesignTitleTextBlock}" Margin="32">
+                        Are you sure you want to do that ?
+        </TextBlock>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button Click="ConfirmDeleteBtnPressedEvent" Grid.Column="0" Style="{StaticResource MaterialDesignFlatButton}"
+                                        IsDefault="True" Command="materialDesign:DialogHost.CloseDialogCommand">
+                <Button.CommandParameter>
+                    <system:Boolean xmlns:system="clr-namespace:System;assembly=mscorlib">
+                        True
+                    </system:Boolean>
+                </Button.CommandParameter>
+                Confirm
+            </Button>
+            <Button Grid.Column="1" Style="{StaticResource MaterialDesignFlatButton}"
+                                        IsDefault="True" Command="materialDesign:DialogHost.CloseDialogCommand">
+                <Button.CommandParameter>
+                    <system:Boolean xmlns:system="clr-namespace:System;assembly=mscorlib">
+                        True
+                    </system:Boolean>
+                </Button.CommandParameter>
+                Cancel
+            </Button>
+        </Grid>
+    </StackPanel>
+    
+</UserControl>

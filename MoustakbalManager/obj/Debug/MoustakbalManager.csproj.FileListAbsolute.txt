@@ -1,0 +1,128 @@
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\MoustakbalManager.exe.config
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\MoustakbalManager.exe
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\MoustakbalManager.pdb
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\App.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager_MarkupCompile.cache
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager_MarkupCompile.lref
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.g.resources
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.Properties.Resources.resources
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.csproj.GenerateResource.cache
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.csproj.CoreCompileInputs.cache
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.exe
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.pdb
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\MaterialDesignColors.dll
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\MaterialDesignColors.pdb
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\App.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.csproj.CopyComplete
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\MainWindow.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\LoginPage.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\MainWindow.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\LoginPage.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\AdminPage.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\AdminPage.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager_Content.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\LocalDb.db
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\Dapper.dll
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\System.Data.SQLite.dll
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\Dapper.xml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\System.Data.SQLite.xml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\System.Data.SQLite.dll.config
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\LiveCharts.dll
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\LiveCharts.Wpf.dll
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\LiveCharts.pdb
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\LiveCharts.xml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\LiveCharts.Wpf.pdb
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\LiveCharts.Wpf.xml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\MemberCreationPage.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\MembersPage.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\MemberCreationPage.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\MembersPage.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\MainGridPage.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\MainGridPage.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\MainStatPage.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\MainStatPage.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatGeoMap.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatGeoMap.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.csprojAssemblyReference.cache
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatColumn.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatColumn.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatPie.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatPie.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatLine.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatLine.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\DeleteDialog.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\DeleteDialog.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\GenerateDialog.g.cs
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\GenerateDialog.baml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\EPPlus.dll
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\EPPlus.xml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\Pages\StatPage\Algeria.xml
+D:\workspace\VisualStudio\MoustakbalManager\MoustakbalManager\bin\Debug\Pages\StatPage\World.xml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\Pages\StatPage\Algeria.xml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\LocalDb.db
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\Pages\StatPage\World.xml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\MoustakbalManager.exe.config
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\MoustakbalManager.exe
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\MoustakbalManager.pdb
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\Dapper.dll
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\EPPlus.dll
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\LiveCharts.dll
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\MaterialDesignColors.dll
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\System.Data.SQLite.dll
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\Dapper.xml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\EPPlus.xml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\LiveCharts.pdb
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\LiveCharts.xml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\MaterialDesignColors.pdb
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\System.Data.SQLite.xml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\AdminPage.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\LoginPage.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatColumn.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\MainStatPage.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\MainWindow.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\AdminPage.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\DeleteDialog.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\GenerateDialog.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\MainGridPage.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\MemberCreationPage.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\MembersPage.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatColumn.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\MainStatPage.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatGeoMap.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatLine.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatPie.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\App.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager_Content.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager_MarkupCompile.cache
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager_MarkupCompile.lref
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\App.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\MainWindow.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\DeleteDialog.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\GenerateDialog.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\MainGridPage.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\MemberCreationPage.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\GridPage\MembersPage.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatGeoMap.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatLine.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\Pages\StatPage\StatPie.baml
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.g.resources
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.Properties.Resources.resources
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.csproj.GenerateResource.cache
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.csproj.CopyComplete
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.exe
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.pdb
+C:\Users\PREDATOR\Documents\Workspace\Visual Studio\MoustakbalManager\MoustakbalManager\obj\Debug\MoustakbalManager.csprojAssemblyReference.cache
